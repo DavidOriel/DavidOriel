@@ -28,5 +28,5 @@ AI Deployment: Cloud-based ML models, MLOps, Model Optimization
 
 ## 📌 Contact Me
 📧 **Email**: davoriel@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/davidoriel/)
+🔗 **LinkedIn**: [linkedin.com/in/davidoriel](https://www.linkedin.com/in/davidoriel/)
 
