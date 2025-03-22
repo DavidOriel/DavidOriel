@@ -5,13 +5,6 @@
 🔹 Passionate about **Machine Learning, NLP, and AI Research**  
 🔹 Open to collaborations and exciting projects!
 
-## 📌 My Skills
-- 🟢 Python, R, SQL
-- 🟢 Machine Learning (Scikit-Learn, TensorFlow, PyTorch)
-- 🟢 Data Visualization (Matplotlib, Seaborn, Plotly)
-- 🟢 Cloud Computing (Google Cloud, AWS)
-- 🟢 Git, Docker, CI/CD
-
 ## 📌 Fields
 
 🔹 Theoretical Expertise
