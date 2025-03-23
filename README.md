@@ -17,14 +17,28 @@ Applied Machine Learning: Computer Vision, Neural Networks, Transformers
 Data Science & Engineering: Feature Engineering, Large-Scale Data Processing
 AI Deployment: Cloud-based ML models, MLOps, Model Optimization
 
-## 📌 My Projects
-1. **[Project 1 - AI-Based Sentiment Analysis](https://github.com/yourusername/project1)**
-   - 🔹 Used LSTM & BERT for sentiment classification
-   - 🔹 Achieved 90% accuracy on IMDB dataset
+## 📌 My Projects and deposetories
+1. **([Political offensivness againts the judical athority](https://github.com/morbea/LegalJudgingSystemAnalysis))**
+   - 🔹 NLP project
+   - 🔹 fine-tuned Hebrew-Bert model for analysis.
+   - 🔹 Applied statistical analysis over the data
 
-2. **[Project 2 - Image Recognition Model](https://github.com/yourusername/project2)**
-   - 🔹 Built a CNN-based model for image classification
-   - 🔹 Used PyTorch & Transfer Learning
+3. **[Probabilistic Graphical Models](https://github.com/yourusername/project2)**
+   - 🔹 probabilistic models and RL projects 
+   - 🔹 Implemented HMM and famous algorithms like "EM" and "gibbs" samplings
+   - 🔹 Implemented an agent that uses RL (Q- learning) for solving a game. 
+
+5. **[various Neural Network examination](https://github.com/yourusername/project2)**
+   - 🔹 Deep learning project.
+   - 🔹 Implemented Nerual networks from basic to CNN.
+   - 🔹 Used pytorch for advanced NN implementation and learning
+
+7. **[Urban Cluster Statistics]([https://github.com/yourusername/project2](https://github.com/amirkl91/ClusterOn))**
+   - 🔹 Urban planning and social good roject.
+   - 🔹 A web application based on the Momepy library which apply statistical analysis over GIS - GDB/SHP files.
+
+3. **[Machine Learning Basics](https://github.com/DavidOriel/IML))**
+   - 🔹 Follows the course Intro to machine learning , where i have learned about simple machine learning algorithms and techniques.
 
 ## 📌 Contact Me
 📧 **Email**: davoriel@gmail.com  
