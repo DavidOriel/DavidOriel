@@ -27,19 +27,19 @@ AI Deployment: Cloud-based ML models, MLOps, Model Optimization
    - 🔹 Implemented HMM and famous algorithms like "EM" and "gibbs" samplings
    - 🔹 Implemented an agent that uses RL (Q- learning) for solving a game. 
 
-3. **[various Neural Network examination]((https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis))**
+3. **[various Neural Network examination](https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis)**
    - 🔹 Deep learning project.
    - 🔹 Implemented Nerual networks from basic to CNN.
    - 🔹 Used pytorch for advanced NN implementation and learning
-4. **[Bayessian Machine Learning]((https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis))**
+4. **[Bayessian Machine Learning](https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis)**
    - 🔹 Deep learning project.
    - 🔹 Implemented Nerual networks from basic to CNN.
    - 🔹 Used pytorch for advanced NN implementation and learning 
-5. **[Urban Cluster Statistics]((https://github.com/amirkl91/ClusterOn))**
+5. **[Urban Cluster Statistics](https://github.com/amirkl91/ClusterOn)**
    - 🔹 Urban planning and social good roject.
    - 🔹 A web application based on the Momepy library which apply statistical analysis over GIS - GDB/SHP files.
 
-6. **[Machine Learning Basics](https://github.com/DavidOriel/IML))**
+6. **[Machine Learning Basics](https://github.com/DavidOriel/IML)**
    - 🔹 Follows the course Intro to machine learning , where i have learned about simple machine learning algorithms and techniques.
 
 ## 📌 Contact Me
