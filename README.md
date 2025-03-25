@@ -1,48 +1,62 @@
 # 🚀 Hi, I'm David
 
-🔹 TA in Algorithms , Intro to Machine Learning, Data Mining, Calculus 1.     
+🔹 Teaching Assistant in Algorithms, Intro to Machine Learning, Data Mining, and Calculus 1  
 🔹 Passionate about **Machine Learning, NLP, and AI Research**  
-🔹 Open to collaborations and exciting projects!
+🔹 Always open to exciting projects and collaborations!
 
-## 📌 Fields
+---
 
-🔹 Theoretical Expertise
-Machine Learning Theory: Bayesian ML, Reinforcement Learning, Graph Machine Learning
-Mathematics: Applied Mathematics, Differential Geometry
-Statistics: Probability, Big Data
+## 📌 Areas of Expertise
 
-🔹 Practical Expertise
-Applied Machine Learning: Computer Vision, Neural Networks, Transformers
-Data Science & Engineering: Feature Engineering, Large-Scale Data Processing
-AI Deployment: Cloud-based ML models, MLOps, Model Optimization
+### 🔹 Theoretical Knowledge
+- **Machine Learning Theory**: Bayesian ML, Reinforcement Learning, Graph Machine Learning  
+- **Mathematics**: Applied Mathematics, Differential Geometry  
+- **Statistics**: Probability, Big Data Analytics  
 
-## 📌 My Projects and deposetories
-1. **[Political offensivness againts the judical athority](https://github.com/morbea/LegalJudgingSystemAnalysis)**
-   - 🔹 NLP project
-   - 🔹 fine-tuned Hebrew-Bert model for analysis.
-   - 🔹 Applied statistical analysis over the data
+### 🔹 Practical Skills
+- **Applied ML**: Computer Vision, Neural Networks, Transformers  
+- **Data Science & Engineering**: Feature Engineering, Large-Scale Data Processing  
+- **AI Deployment**: Cloud-Based ML Models, MLOps, Model Optimization  
 
-2. **[Probabilistic Graphical Models](https://github.com/DavidOriel/Probability-Methods-In-AI-)**
-   - 🔹 probabilistic models and RL projects 
-   - 🔹 Implemented HMM and famous algorithms like "EM" and "gibbs" samplings
-   - 🔹 Implemented an agent that uses RL (Q- learning) for solving a game. 
+---
 
-3. **[various Neural Network examination](https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis)**
-   - 🔹 Deep learning project.
-   - 🔹 Implemented Nerual networks from basic to CNN.
-   - 🔹 Used pytorch for advanced NN implementation and learning
-4. **[Bayessian Machine Learning](https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis)**
-   - 🔹 Deep learning project.
-   - 🔹 Implemented Nerual networks from basic to CNN.
-   - 🔹 Used pytorch for advanced NN implementation and learning 
-5. **[Urban Cluster Statistics](https://github.com/amirkl91/ClusterOn)**
-   - 🔹 Urban planning and social good roject.
-   - 🔹 A web application based on the Momepy library which apply statistical analysis over GIS - GDB/SHP files.
+## 📂 Featured Projects & Repositories
 
-6. **[Machine Learning Basics](https://github.com/DavidOriel/IML)**
-   - 🔹 Follows the course Intro to machine learning , where i have learned about simple machine learning algorithms and techniques.
+1. **[Political Offensiveness Against the Judicial Authority](https://github.com/morbea/LegalJudgingSystemAnalysis)**  
+   🔹 NLP project analyzing political rhetoric  
+   🔹 Fine-tuned Hebrew-BERT model for sentiment and stance classification  
+   🔹 Conducted statistical analysis of linguistic patterns
 
-## 📌 Contact Me
-📧 **Email**: davoriel@gmail.com  
+2. **[Probabilistic Graphical Models](https://github.com/DavidOriel/Probability-Methods-In-AI-)**  
+   🔹 Projects in probabilistic modeling and reinforcement learning  
+   🔹 Implemented HMM, EM algorithm, and Gibbs sampling  
+   🔹 Developed a Q-learning agent for game-solving
+
+3. **[Neural Network Exploration](https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis)**  
+   🔹 Deep learning implementations from scratch  
+   🔹 Built neural networks including CNNs using PyTorch  
+   🔹 Conducted performance experiments on various architectures
+
+4. **[Bayesian Machine Learning](https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis)**  
+   🔹 Explored uncertainty in deep learning  
+   🔹 Applied Bayesian techniques in neural network training using PyTorch
+
+5. **[Urban Cluster Statistics](https://github.com/amirkl91/ClusterOn)**  
+   🔹 Urban planning meets data science  
+   🔹 Web app powered by Momepy for statistical analysis over GIS data (GDB/SHP files)  
+   🔹 Built for social good and data-driven planning
+
+6. **[Machine Learning Basics](https://github.com/DavidOriel/IML)**  
+   🔹 Coursework and practical exercises from an Intro to Machine Learning course  
+   🔹 Covered foundational ML techniques: decision trees, SVMs, ensemble methods, and more
+
+---
+
+## 📬 Contact Me
+
+📧 **Email**: [davoriel@gmail.com](mailto:davoriel@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/davidoriel](https://www.linkedin.com/in/davidoriel/)
 
+---
+
+*Thanks for visiting! .* 🌟
