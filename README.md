@@ -37,7 +37,7 @@
    🔹 Built neural networks including CNNs using PyTorch  
    🔹 Conducted performance experiments on various architectures
 
-4. **[Bayesian Machine Learning](https://github.com/DavidOriel/Adv.-computational-learning-and-data-analysis)**  
+4. **[Bayesian Machine Learning](https://github.com/DavidOriel/Bayessian-Machine-Learning)**  
    🔹 Explored uncertainty in deep learning  
    🔹 Applied Bayesian techniques in neural network training using PyTorch
 
